@@ -3,6 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:newapp/pantallas/contador.dart';
 
+
 void main(){ /// debug del proyecto
   // debug del proyecto
   runApp(MyApp()); // runapp, llama a la clase MY app
